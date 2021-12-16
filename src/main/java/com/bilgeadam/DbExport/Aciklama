@@ -1,0 +1,6 @@
+Cd dvd ve vinyl yi kalıtım ile Albumlere bağlamaya çalıştım fakat 
+ayrı ayrı tablolar oluşturmadı Hamit hocayla dün inheritence yaparken tek
+entity classı olduğundan bu sorunu fark etmemiştim bu şekilde öğrendim.
+
+Bunun sonucunda da sipariş verirken tablolar bağlı olmadıgından herşeyi manuel olarak 
+girmek zorunda kaldım
